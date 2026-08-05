@@ -49,4 +49,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0541-reverse-string-ii](https://github.com/rcodedev/LeetCode/tree/master/0541-reverse-string-ii) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/rcodedev/LeetCode/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
