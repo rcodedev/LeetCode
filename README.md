@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/rcodedev/LeetCode/tree/master/0001-two-sum) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/rcodedev/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0119-pascals-triangle-ii](https://github.com/rcodedev/LeetCode/tree/master/0119-pascals-triangle-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -72,4 +73,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/rcodedev/LeetCode/tree/master/0010-regular-expression-matching) |
+| [0119-pascals-triangle-ii](https://github.com/rcodedev/LeetCode/tree/master/0119-pascals-triangle-ii) |
 <!---LeetCode Topics End-->
