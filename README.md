@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/rcodedev/LeetCode/tree/master/0001-two-sum) |
 | [0160-intersection-of-two-linked-lists](https://github.com/rcodedev/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0202-happy-number](https://github.com/rcodedev/LeetCode/tree/master/0202-happy-number) |
 ## Tree
 |  |
 | ------- |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0160-intersection-of-two-linked-lists](https://github.com/rcodedev/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0202-happy-number](https://github.com/rcodedev/LeetCode/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/rcodedev/LeetCode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/rcodedev/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0541-reverse-string-ii](https://github.com/rcodedev/LeetCode/tree/master/0541-reverse-string-ii) |
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/rcodedev/LeetCode/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/rcodedev/LeetCode/tree/master/0009-palindrome-number) |
+| [0202-happy-number](https://github.com/rcodedev/LeetCode/tree/master/0202-happy-number) |
 ## Linked List
 |  |
 | ------- |
@@ -108,4 +111,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/rcodedev/LeetCode/tree/master/0257-binary-tree-paths) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/rcodedev/LeetCode/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
