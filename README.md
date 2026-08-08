@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/rcodedev/LeetCode/tree/master/0069-sqrtx) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/rcodedev/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Two Pointers
 |  |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/rcodedev/LeetCode/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/rcodedev/LeetCode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/rcodedev/LeetCode/tree/master/0013-roman-to-integer) |
+| [0069-sqrtx](https://github.com/rcodedev/LeetCode/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/rcodedev/LeetCode/tree/master/0202-happy-number) |
 ## Linked List
 |  |
@@ -118,4 +120,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/rcodedev/LeetCode/tree/master/0202-happy-number) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/rcodedev/LeetCode/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
