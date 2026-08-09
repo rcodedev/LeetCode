@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/rcodedev/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/rcodedev/LeetCode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/rcodedev/LeetCode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/rcodedev/LeetCode/tree/master/0342-power-of-four) |
 ## Linked List
 |  |
 | ------- |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/rcodedev/LeetCode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/rcodedev/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/rcodedev/LeetCode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/rcodedev/LeetCode/tree/master/0342-power-of-four) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/rcodedev/LeetCode/tree/master/0190-reverse-bits) |
 | [0231-power-of-two](https://github.com/rcodedev/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/rcodedev/LeetCode/tree/master/0268-missing-number) |
+| [0342-power-of-four](https://github.com/rcodedev/LeetCode/tree/master/0342-power-of-four) |
 ## Sorting
 |  |
 | ------- |
