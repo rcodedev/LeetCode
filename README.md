@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/rcodedev/LeetCode/tree/master/0013-roman-to-integer) |
 | [0160-intersection-of-two-linked-lists](https://github.com/rcodedev/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/rcodedev/LeetCode/tree/master/0202-happy-number) |
+| [0290-word-pattern](https://github.com/rcodedev/LeetCode/tree/master/0290-word-pattern) |
 ## Tree
 |  |
 | ------- |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/rcodedev/LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/rcodedev/LeetCode/tree/master/0171-excel-sheet-column-number) |
 | [0257-binary-tree-paths](https://github.com/rcodedev/LeetCode/tree/master/0257-binary-tree-paths) |
+| [0290-word-pattern](https://github.com/rcodedev/LeetCode/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/rcodedev/LeetCode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/rcodedev/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0541-reverse-string-ii](https://github.com/rcodedev/LeetCode/tree/master/0541-reverse-string-ii) |
