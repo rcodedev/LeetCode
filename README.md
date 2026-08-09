@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/rcodedev/LeetCode/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/rcodedev/LeetCode/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/rcodedev/LeetCode/tree/master/0290-word-pattern) |
+| [0387-first-unique-character-in-a-string](https://github.com/rcodedev/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 ## Tree
 |  |
 | ------- |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/rcodedev/LeetCode/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/rcodedev/LeetCode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/rcodedev/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/rcodedev/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0541-reverse-string-ii](https://github.com/rcodedev/LeetCode/tree/master/0541-reverse-string-ii) |
 ## Math
 |  |
@@ -160,4 +162,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/rcodedev/LeetCode/tree/master/0268-missing-number) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/rcodedev/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+## Counting
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/rcodedev/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
