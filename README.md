@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/rcodedev/LeetCode/tree/master/0290-word-pattern) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/rcodedev/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/rcodedev/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [0409-longest-palindrome](https://github.com/rcodedev/LeetCode/tree/master/0409-longest-palindrome) |
 ## Tree
 |  |
 | ------- |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/rcodedev/LeetCode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/rcodedev/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/rcodedev/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [0409-longest-palindrome](https://github.com/rcodedev/LeetCode/tree/master/0409-longest-palindrome) |
 | [0541-reverse-string-ii](https://github.com/rcodedev/LeetCode/tree/master/0541-reverse-string-ii) |
 ## Math
 |  |
@@ -199,4 +201,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/rcodedev/LeetCode/tree/master/0258-add-digits) |
+## Greedy
+|  |
+| ------- |
+| [0409-longest-palindrome](https://github.com/rcodedev/LeetCode/tree/master/0409-longest-palindrome) |
 <!---LeetCode Topics End-->
