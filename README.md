@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/rcodedev/LeetCode/tree/master/0010-regular-expression-matching) |
 | [0119-pascals-triangle-ii](https://github.com/rcodedev/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/rcodedev/LeetCode/tree/master/0120-triangle) |
+| [0338-counting-bits](https://github.com/rcodedev/LeetCode/tree/master/0338-counting-bits) |
 ## Stack
 |  |
 | ------- |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/rcodedev/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/rcodedev/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/rcodedev/LeetCode/tree/master/0268-missing-number) |
+| [0338-counting-bits](https://github.com/rcodedev/LeetCode/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/rcodedev/LeetCode/tree/master/0342-power-of-four) |
 ## Sorting
 |  |
