@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/rcodedev/LeetCode/tree/master/0257-binary-tree-paths) |
+| [0401-binary-watch](https://github.com/rcodedev/LeetCode/tree/master/0401-binary-watch) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/rcodedev/LeetCode/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/rcodedev/LeetCode/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/rcodedev/LeetCode/tree/master/0342-power-of-four) |
+| [0401-binary-watch](https://github.com/rcodedev/LeetCode/tree/master/0401-binary-watch) |
 ## Sorting
 |  |
 | ------- |
