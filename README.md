@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/rcodedev/LeetCode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/rcodedev/LeetCode/tree/master/0415-add-strings) |
 | [0541-reverse-string-ii](https://github.com/rcodedev/LeetCode/tree/master/0541-reverse-string-ii) |
+| [0796-rotate-string](https://github.com/rcodedev/LeetCode/tree/master/0796-rotate-string) |
 ## Math
 |  |
 | ------- |
@@ -250,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/rcodedev/LeetCode/tree/master/0572-subtree-of-another-tree) |
+| [0796-rotate-string](https://github.com/rcodedev/LeetCode/tree/master/0796-rotate-string) |
 ## Hash Function
 |  |
 | ------- |
