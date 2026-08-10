@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/rcodedev/LeetCode/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/rcodedev/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/rcodedev/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0561-array-partition](https://github.com/rcodedev/LeetCode/tree/master/0561-array-partition) |
 ## Hash Table
 |  |
 | ------- |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/rcodedev/LeetCode/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/rcodedev/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0561-array-partition](https://github.com/rcodedev/LeetCode/tree/master/0561-array-partition) |
 ## Queue
 |  |
 | ------- |
@@ -228,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/rcodedev/LeetCode/tree/master/0409-longest-palindrome) |
+| [0561-array-partition](https://github.com/rcodedev/LeetCode/tree/master/0561-array-partition) |
 ## Interactive
 |  |
 | ------- |
@@ -236,4 +239,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/rcodedev/LeetCode/tree/master/0543-diameter-of-binary-tree) |
+## Counting Sort
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/rcodedev/LeetCode/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->
