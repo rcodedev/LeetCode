@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/rcodedev/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0268-missing-number](https://github.com/rcodedev/LeetCode/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/rcodedev/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0367-valid-perfect-square](https://github.com/rcodedev/LeetCode/tree/master/0367-valid-perfect-square) |
 ## Two Pointers
 |  |
 | ------- |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/rcodedev/LeetCode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/rcodedev/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/rcodedev/LeetCode/tree/master/0342-power-of-four) |
+| [0367-valid-perfect-square](https://github.com/rcodedev/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/rcodedev/LeetCode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/rcodedev/LeetCode/tree/master/0415-add-strings) |
 ## Linked List
