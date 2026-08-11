@@ -15,10 +15,24 @@
  */
 class Solution {
     public boolean findTarget(TreeNode root, int k) {
-        if (root == null) return false;
-        if (set.contains(k - root.val)) return true;
-        set.add(root.val);
-        return findTarget(root.left, k) || findTarget(root.right, k);
+        return run(root, root, k);
     }
-    HashSet<Integer> set = new HashSet<>();
+    public boolean run(TreeNode root, TreeNode currentNode, int k) {
+        if (currentNode == null)
+            return false;
+        if (find(root, k - currentNode.val, currentNode))
+            return true;
+        return run(root, currentNode.left, k) || run(root, currentNode.right, k);
+    }
+    public boolean find(TreeNode root, int val, TreeNode current) {
+        if (root == null)
+            return false;
+        if (val > root.val)
+            return find(root.right, val, current);
+        else if (val < root.val)
+            return find(root.left, val, current);
+        else if (val == root.val)
+            return root != current;
+        return false;
+    }
 }
