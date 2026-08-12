@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/rcodedev/LeetCode/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rcodedev/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/rcodedev/LeetCode/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/rcodedev/LeetCode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/rcodedev/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/rcodedev/LeetCode/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/rcodedev/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/rcodedev/LeetCode/tree/master/0013-roman-to-integer) |
 | [0141-linked-list-cycle](https://github.com/rcodedev/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/rcodedev/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0169-majority-element](https://github.com/rcodedev/LeetCode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/rcodedev/LeetCode/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/rcodedev/LeetCode/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/rcodedev/LeetCode/tree/master/0290-word-pattern) |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/rcodedev/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0169-majority-element](https://github.com/rcodedev/LeetCode/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/rcodedev/LeetCode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/rcodedev/LeetCode/tree/master/0191-number-of-1-bits) |
 ## Binary Search Tree
@@ -288,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/rcodedev/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/rcodedev/LeetCode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/rcodedev/LeetCode/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/rcodedev/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0561-array-partition](https://github.com/rcodedev/LeetCode/tree/master/0561-array-partition) |
@@ -299,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/rcodedev/LeetCode/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/rcodedev/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 ## Simulation
 |  |
@@ -364,4 +369,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/rcodedev/LeetCode/tree/master/0070-climbing-stairs) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/rcodedev/LeetCode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
