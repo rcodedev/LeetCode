@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rcodedev/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/rcodedev/LeetCode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/rcodedev/LeetCode/tree/master/0035-search-insert-position) |
+| [0066-plus-one](https://github.com/rcodedev/LeetCode/tree/master/0066-plus-one) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/rcodedev/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0119-pascals-triangle-ii](https://github.com/rcodedev/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/rcodedev/LeetCode/tree/master/0120-triangle) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/rcodedev/LeetCode/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/rcodedev/LeetCode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/rcodedev/LeetCode/tree/master/0013-roman-to-integer) |
+| [0066-plus-one](https://github.com/rcodedev/LeetCode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/rcodedev/LeetCode/tree/master/0069-sqrtx) |
 | [0168-excel-sheet-column-title](https://github.com/rcodedev/LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/rcodedev/LeetCode/tree/master/0171-excel-sheet-column-number) |
