@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/rcodedev/LeetCode/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/rcodedev/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/rcodedev/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0119-pascals-triangle-ii](https://github.com/rcodedev/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/rcodedev/LeetCode/tree/master/0120-triangle) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0010-regular-expression-matching](https://github.com/rcodedev/LeetCode/tree/master/0010-regular-expression-matching) |
 | [0013-roman-to-integer](https://github.com/rcodedev/LeetCode/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/rcodedev/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0168-excel-sheet-column-title](https://github.com/rcodedev/LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/rcodedev/LeetCode/tree/master/0171-excel-sheet-column-number) |
 | [0257-binary-tree-paths](https://github.com/rcodedev/LeetCode/tree/master/0257-binary-tree-paths) |
@@ -288,4 +290,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/rcodedev/LeetCode/tree/master/0572-subtree-of-another-tree) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/rcodedev/LeetCode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
